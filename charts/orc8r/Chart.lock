@@ -1,0 +1,18 @@
+dependencies:
+- name: secrets
+  repository: ""
+  version: 0.1.10
+- name: metrics
+  repository: ""
+  version: 1.4.22
+- name: nms
+  repository: ""
+  version: 0.1.9
+- name: logging
+  repository: ""
+  version: 0.1.10
+- name: orc8rlib
+  repository: https://shubhamtatvamasi.github.io/magma-charts
+  version: 0.1.2
+digest: sha256:e628a0a337a862bff79c0c4318814c01cfb5e648fd832c3398e22dfa6dea711c
+generated: "2021-03-17T12:42:07.411195799+05:30"
